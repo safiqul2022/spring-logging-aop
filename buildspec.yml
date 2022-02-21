@@ -10,5 +10,5 @@ phases:
        - echo Build completed successfully
 artifacts:
    files:
-     - target/spring-logging-aop-0.0.1-SNAPSHOT.war
+     - target/spring-logging-aop.jar
    discard-paths: yes
